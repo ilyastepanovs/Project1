@@ -1,4 +1,4 @@
-# Unit Tests for several classes
+# Unit Tests for Several Classes
 
 ## Description
 
@@ -8,6 +8,6 @@ In the project has covered four classes: Bun, Burger, Ingredient, IngredientType
 Was used parameterized tests and mocks.
 Was added Jacoco report (it's available at: target/site/jacoco/index.html)
 
-## Developing locally
+## Developing Locally
 Java 11, Amazon Coretto JDK, JUnit 4
 Clone repository and run tests. Tests located at: src/test/java/
