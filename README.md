@@ -2,7 +2,7 @@
 
 ## Description
 
-In current project presented several unit tests for Yandex-Practicum learning classes. Orinal Yandex-Practicum repository is abalible on [yandex-repo](https://github.com/yandex-praktikum/QA-java-diplom-1).
+In current project presented several unit tests for Yandex-Practicum learning classes. Orinal Yandex-Practicum repository is abalible at [yandex-repo](https://github.com/yandex-praktikum/QA-java-diplom-1).
 
 * in the project has covered four classes: Bun, Burger, Ingredient, IngredientType; 
 * was used parameterized tests and mocks;
