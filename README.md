@@ -9,6 +9,7 @@ In current project presented several unit tests for Yandex-Practicum learning cl
 * was added Jacoco report (it's available at: ```/target/site/jacoco/index.html```).
 
 ## Developing Locally
+### Stack
 * Java 11; 
 * Amazon Coretto JDK;
 * Maven;
@@ -16,4 +17,10 @@ In current project presented several unit tests for Yandex-Practicum learning cl
 * Mockito;
 * Jacoco.
 
-Please, clone repository and run tests. Tests located at: ```/src/test/java/```.
+### How get project locally?
+1. Clone repository: 
+```git clone git@github.com:ilyastepanovs/Project1.git```;
+2. Open project in IDE;
+3. Run tests. They located at ```/src/test/```
+
+
