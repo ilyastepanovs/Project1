@@ -11,6 +11,7 @@ In current project presented several unit tests for Yandex-Practicum learning cl
 ## Developing Locally
 * Java 11; 
 * Amazon Coretto JDK;
-* JUnit 4.
+* JUnit 4;
+* Mockito.
 
 Please, clone repository and run tests. Tests located at: ```/src/test/java/```.
