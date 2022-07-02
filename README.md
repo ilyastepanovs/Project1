@@ -6,7 +6,7 @@ In current project presented several unit tests for Yandex-Practicum learning cl
 
 * in the project has covered four classes: Bun, Burger, Ingredient, IngredientType; 
 * test data creates before and removes after running;
-* was added Jacoco report (it's available at: ```/target/site/jacoco/index.html```).
+* jacoco report was added (it's available at: ```/target/site/jacoco/index.html```).
 
 ## Stack
 * Java 11; 
