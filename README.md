@@ -2,11 +2,11 @@
 
 ## Description
 
-In current project presented several unit tests for Yandex-Practicum learning classes. Orinal Yandex-Practicum repository is available on [yandex-repo](https://github.com/yandex-praktikum/QA-java-diplom-1).
+The Project1 includes unit tests for Yandex-Practicum learning classes. Orinal Yandex-Practicum repository is available on [yandex-repo](https://github.com/yandex-praktikum/QA-java-diplom-1).
 
 * in the project were covered four classes: Bun, Burger, Ingredient, IngredientType; 
 * test data creates before and removes after running;
-* jacoco report was added (it's available at: ```/target/site/jacoco/index.html```).
+* jacoco report was added (available at: ```/target/site/jacoco/index.html```).
 
 ## Stack
 * Java 11; 
@@ -20,6 +20,6 @@ In current project presented several unit tests for Yandex-Practicum learning cl
 1. Clone repository: 
 ```git clone git@github.com:ilyastepanovs/Project1.git```;
 2. Open project in IDE;
-3. Run tests. They located at ```/src/test/```
+3. Run the tests from the following location ```/src/test/```
 
 
